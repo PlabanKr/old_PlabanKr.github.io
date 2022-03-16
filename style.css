@@ -16,9 +16,15 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 1.3rem;
 }
 
 .intro > h1 {
   margin: 1.5rem 0;
   font-size: 5rem;
+}
+
+.social-media > a {
+  text-decoration: none;
+  color: white;
 }
